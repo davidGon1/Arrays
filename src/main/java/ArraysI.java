@@ -13,8 +13,11 @@ public class ArraysI {
         
        
     }
-
-	public loco
+    
+    public String buscar(){
+        return "";
+    }            
+                
 
     
     public String paisMasLargo(){
